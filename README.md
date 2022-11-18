@@ -26,7 +26,7 @@
 
 #### Etc.
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=white)
 
