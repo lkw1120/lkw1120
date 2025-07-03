@@ -1,9 +1,9 @@
 ## lkw1120 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flkw1120%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/github.com%2Flkw1120?color=green&label=hits&size=small)](https://myhits.vercel.app)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lkw1120)](https://solved.ac/lkw1120)
 
-![lkw1120's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lkw1120&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
+![lkw1120's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkw1120&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
 
 ## 🛠 Skills
 
