@@ -5,6 +5,6 @@
 
 I'm a mobile developer building Android apps end-to-end. ⚡️
 
-I’ve published apps on Google Play, including **<a href="https://play.google.com/store/apps/details?id=app.kwlee.daydal" target="_blank">Daydal</a>** and **<a href="https://play.google.com/store/apps/details?id=app.kwlee.fooddog" target="_blank">FoodDog</a>**. 🚀
+I've published apps on Google Play, including **<a href="https://play.google.com/store/apps/details?id=app.kwlee.daydal" target="_blank">Daydal</a>** and **<a href="https://play.google.com/store/apps/details?id=app.kwlee.fooddog" target="_blank">FoodDog</a>**. 🚀
 
-Beyond mobile, I’m also interested in a wide range of tech. 🧩
+Beyond mobile, I'm also interested in a wide range of tech. 🧩
